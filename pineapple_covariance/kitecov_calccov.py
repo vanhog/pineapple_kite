@@ -1,6 +1,6 @@
 from kite import Scene 
 
-
+# This script calculates the covariance of a kite scene
 
 
 files = ['/media/hog/Iomega HDD/mscdata/tl5_l2b_a_044_01_mscaoi_f32_foccov_losturn',\
